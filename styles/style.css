@@ -19,7 +19,6 @@
   box-shadow: 0 0 0 var(--base-color);
   transition: box-shadow 0.3s ease;
   position: relative;
-  box-shadow: none;
 }
 
 .button:hover {
