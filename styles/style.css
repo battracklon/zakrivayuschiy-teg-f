@@ -138,8 +138,8 @@ button:focus-visible {
 
 .card__image {
   display: block;
-  width: 100%;  
-  object-fit:fill;
+  width: 100%;
+  object-fit: fill;
   object-position: 0 0;
   /* margin-block-end: -4px; */
 }
